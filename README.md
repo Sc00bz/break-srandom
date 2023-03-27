@@ -1,3 +1,9 @@
+WARNING DO NOT USE
+------------------
+
+This is a broken PRNG.
+
+
 Introduction
 ------------
 
